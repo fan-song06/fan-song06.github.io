@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B.S / Associate Research Professor"
+title                    : "Bofan Song / Associate Research Professor"
 title_separator          : "-"
-name                     : &name "Dr. B.S"
+name                     : &name "Dr. Bofan Song"
 description              : &description "Associate Research Professor at Wyant College of Optical Sciences, the University of Arizona"
 url                      : https://fan-song06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
