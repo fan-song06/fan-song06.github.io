@@ -16,10 +16,14 @@ Education
 
 Work experience
 ======
-* Postdoc, Wyant College of Optical Sciences, the University of Arizona
+* Postdoctoral Research Associate, Wyant College of Optical Sciences, the University of Arizona
 * Assistant Research Professor, Wyant College of Optical Sciences, the University of Arizona
 * Associate Research Professor, Wyant College of Optical Sciences, the University of Arizona
   
 Service
 ======
 * Session Chair, Photonics West 2023
+
+Journal Reviewer
+======
+Biomedical Optics Express, Applied Optics, Expert Systems with Applications, Artificial Intelligence in Medicine, Cancers, IEEE Photonics Journal, IEEE Access, Journal of Electronic Imaging, Biocybernetics and Biomedical Engineering, Sensors, Photonics, Electronics, Entropy, Sustainability, Diagnostics, Metabolites, Remote Sensing, Applied Sciences, Neuroscience Informatics, International Journal of Imaging Systems and Technology, Results in Physics, Data in Brief, Digital health
