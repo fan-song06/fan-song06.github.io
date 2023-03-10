@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bofan Song / Associate Research Professor"
 title_separator          : "-"
 name                     : &name "Dr. Bofan Song"
-description              : &description "Associate Research Professor at Wyant College of Optical Sciences, the University of Arizona"
+description              : &description "Associate Research Professor at Wyant College of Optical Sciences, University of Arizona"
 url                      : https://fan-song06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fan-song06.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. B.S"
+  name             : "Dr. Bofan Song"
   avatar           : "profile.png"
-  bio              : "Associate Research Professor at Wyant College of Optical Sciences, the University of Arizona"
+  bio              : "Associate Research Professor at Wyant College of Optical Sciences, University of Arizona"
   location         : "Tucson, Arizona"
   employer         :
   pubmed           : ""
