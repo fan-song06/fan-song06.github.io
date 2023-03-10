@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,6 +20,6 @@ Work experience
 * Assistant Research Professor, Wyant College of Optical Sciences, the University of Arizona
 * Associate Research Professor, Wyant College of Optical Sciences, the University of Arizona
   
-Service and leadership
+Service
 ======
 * Session Chair, Photonics West 2023
