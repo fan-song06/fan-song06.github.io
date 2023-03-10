@@ -1,7 +1,7 @@
 ---
-title: "Point-of-care imaging system for early diagnosis in low resource setting"
+title: "Screening using our customized system"
 excerpt: "Oral cancer screening campaign in India using our customized system<br/><img src='/images/research1.png'>"
 collection: portfolio
 ---
 
-Point-of-care imaging system hardware and software for early diagnosis of disease and cancer in resource limited setting
+Use our customized screening platform to help high-risk population in resouce-limited settings
