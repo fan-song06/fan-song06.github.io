@@ -22,7 +22,7 @@ Work experience
   
 Service
 ======
-* Session Chair, Photonics West 2023
+* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
 
 Journal Reviewer
 ======
