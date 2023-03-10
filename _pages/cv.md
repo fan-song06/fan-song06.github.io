@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Affiliation
+======
+* Associate Research Professor, Wyant College of Optical Sciences, University of Arizona
+
 Education
 ======
 * B.S. in EE, Shanghai Jiaotong University
@@ -16,9 +20,9 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Associate, Wyant College of Optical Sciences, the University of Arizona
-* Assistant Research Professor, Wyant College of Optical Sciences, the University of Arizona
-* Associate Research Professor, Wyant College of Optical Sciences, the University of Arizona
+* Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
+* Assistant Research Professor, Wyant College of Optical Sciences, University of Arizona
+* Associate Research Professor, Wyant College of Optical Sciences, University of Arizona
   
 Service
 ======
