@@ -19,24 +19,6 @@ Work experience
 * Postdoc, Wyant College of Optical Sciences, the University of Arizona
 * Assistant Research Professor, Wyant College of Optical Sciences, the University of Arizona
 * Associate Research Professor, Wyant College of Optical Sciences, the University of Arizona
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Conference
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
