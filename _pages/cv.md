@@ -14,6 +14,12 @@ Education
 * B.S. in EE, Shanghai Jiaotong University
 * Ph.D in EE, Zhejiang University
 
+Work experience
+======
+* Postdoc, Wyant College of Optical Sciences, the University of Arizona
+* Assistant Research Professor, Wyant College of Optical Sciences, the University of Arizona
+* Associate Research Professor, Wyant College of Optical Sciences, the University of Arizona
+
 Publications
 ======
   <ul>{% for post in site.publications %}
