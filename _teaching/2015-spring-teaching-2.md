@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2015-spring-teaching-1
 venue: ", "
-date: 2015-01-01
+date: xxxx-01-01
 location: "City, Country"
 ---
 
