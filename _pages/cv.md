@@ -17,7 +17,7 @@ Affiliation
 
 Education
 ======
-* B.S. in EE, Shanghai Jiaotong University
+* B.S. in EE, Shanghai Jiao Tong University
 * Ph.D in EE, Zhejiang University
 
 Work experience
