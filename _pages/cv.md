@@ -31,7 +31,7 @@ Professional Services
 * Journal Editorial Services
   Leading Geust Editor, 'Bayesian Techniques applied to Deep Neural Networks', Friontiers in Signal Processing
 
-* Coference Service
+* Coference Services
   Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
   
 * Journal Reviewer
