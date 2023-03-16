@@ -28,10 +28,10 @@ Employment
   
 Professional Services
 ======
-Journal Editorial Services
+Journal Editorial Service
 * Geust Editor, 'Bayesian Techniques applied to Deep Neural Networks', Friontiers in Signal Processing
 
-Coference Services
+Coference Service
 * Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
   
 Journal Reviewer
