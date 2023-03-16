@@ -28,35 +28,35 @@ Employment
   
 Professional Services
 ======
-* Journal Editorial Services
-  Leading Geust Editor, 'Bayesian Techniques applied to Deep Neural Networks', Friontiers in Signal Processing
+Journal Editorial Services
+* Geust Editor, 'Bayesian Techniques applied to Deep Neural Networks', Friontiers in Signal Processing
 
-* Coference Services
-  Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
+Coference Services
+* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
   
-* Journal Reviewer
-  Biomedical Optics Express, 
-  Applied Optics, 
-  Expert Systems with Applications, 
-  Artificial Intelligence in Medicine, 
-  Cancers, 
-  IEEE Photonics Journal, 
-  IEEE Access, 
-  Journal of Electronic Imaging, 
-  Biocybernetics and Biomedical Engineering, 
-  Sensors, 
-  Photonics, 
-  Electronics, 
-  Entropy, 
-  Sustainability, 
-  Diagnostics, 
-  Metabolites, 
-  Remote Sensing, 
-  Applied Sciences, 
-  Neuroscience Informatics, 
-  International Journal of Imaging Systems and Technology, 
-  BMC Oral Health, 
-  BMC Medical Informatics and Decision Making, 
-  Results in Physics, 
-  Data in Brief, 
-  Digital health
+Journal Reviewer
+*   Biomedical Optics Express, 
+*   Applied Optics, 
+*   Expert Systems with Applications, 
+*   Artificial Intelligence in Medicine, 
+*   Cancers, 
+*   IEEE Photonics Journal, 
+*   IEEE Access, 
+*   Journal of Electronic Imaging, 
+*   Biocybernetics and Biomedical Engineering, 
+*   Sensors, 
+*   Photonics, 
+*   Electronics, 
+*   Entropy, 
+*   Sustainability, 
+*   Diagnostics, 
+*   Metabolites, 
+*   Remote Sensing, 
+*   Applied Sciences, 
+*   Neuroscience Informatics, 
+*   International Journal of Imaging Systems and Technology, 
+*   BMC Oral Health, 
+*   BMC Medical Informatics and Decision Making, 
+*   Results in Physics, 
+*   Data in Brief, 
+*   Digital health
