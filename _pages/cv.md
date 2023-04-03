@@ -29,7 +29,7 @@ Employment
 Professional Services
 ======
 Journal Editorial Service
-* Geust Editor, Friontiers in Signal Processing
+* Topic Editor, Friontiers in Signal Processing
 
 Coference Service
 * Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
@@ -59,4 +59,5 @@ Journal Reviewer
 *   BMC Medical Informatics and Decision Making, 
 *   Results in Physics, 
 *   Data in Brief, 
-*   Digital health
+*   Digital health,
+*   Biomedical Signal Processing and Control
