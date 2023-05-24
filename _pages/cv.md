@@ -28,8 +28,6 @@ Employment
   
 Professional Services
 ======
-Journal Editorial Service
-* Topic Editor, Friontiers in Signal Processing
 
 Coference Service
 * Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
