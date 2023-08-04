@@ -18,7 +18,7 @@ Affiliation
 Degree(s)
 ======
 * B.S. in EE, Shanghai Jiao Tong University
-* Ph.D in EE, Zhejiang University
+* Ph.D. in EE, Zhejiang University
 
 Employment
 ======
@@ -29,7 +29,11 @@ Employment
 Professional Services
 ======
 
-Coference Service
+Editorial Service
+* Guest Editor, Photonics
+* Guest Editor, Frontiers in Signal Processing
+
+Conference Service
 * Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
   
 Journal Reviewer
