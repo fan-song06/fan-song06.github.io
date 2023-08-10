@@ -4,4 +4,4 @@ excerpt: "Oral cancer screening campaign in Dimapur, India using customized syst
 collection: portfolio
 ---
 
-Cancer screening for high-risk populations in resource-limited settings using customized platform
+Cancer screening for high-risk populations in resource-limited settings using the customized platform
