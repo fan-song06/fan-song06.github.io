@@ -17,15 +17,15 @@ Affiliation
 
 Degree(s)
 ======
-* B.S. in EE, Shanghai Jiao Tong University
 * Ph.D. in EE, Zhejiang University
+* B.S. in EE, Shanghai Jiao Tong University
 
 Employment
 ======
-* Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
-* Assistant Research Professor, Wyant College of Optical Sciences, University of Arizona
 * Associate Research Professor, Wyant College of Optical Sciences, University of Arizona
-  
+* Assistant Research Professor, Wyant College of Optical Sciences, University of Arizona
+* Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
+
 Professional Services
 ======
 
