@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,10 +31,10 @@ Professional Services
 
 Editorial Service
 * Guest Editor, Photonics
-* Guest Editor, Frontiers in Signal Processing
+* Topical Editor, Frontiers in Signal Processing
 
 Conference Service
-* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, San Francisco, California, 2023
+* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, 2023
   
 Journal Reviewer
 *   Biomedical Optics Express, 
