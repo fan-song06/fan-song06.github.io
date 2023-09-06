@@ -34,7 +34,8 @@ Editorial Service
 * Topical Editor, Frontiers in Signal Processing
 
 Conference Service
-* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West, 2023
+* Program Committee, Design and Quality for Biomedical Technologies XVII, Photonics West
+* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West
   
 Journal Reviewer
 *   Biomedical Optics Express, 
