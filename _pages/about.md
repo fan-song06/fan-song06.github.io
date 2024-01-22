@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-Affiliation
-======
+
 * I am currently an Associate Research Professor at Wyant College of Optical Sciences, the University of Arizona.
 
 Research Interests
