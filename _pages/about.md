@@ -15,8 +15,8 @@ redirect_from:
 Research Interests
 ======
 * Machine learning, artificial intelligence: Machine learning for biomedical applications, Reliable and interpretable machine learning
-* Biomedical optical imaging: Optical imaging for biomedical applications, Point-of-care imaging techniques, Fluorescence imaging
-* Computer vision, medical image analysis
+* Biomedical optical imaging: Optical imaging for biomedical applications, Point-of-care imaging techniques, Biomedical optical instrumentation, Fluorescence imaging, Spectral imaging
+* Computational imaging, Computer vision, Medical image analysis
 
 Contact
 ======
