@@ -45,6 +45,7 @@ Journal Reviewer
 *   Biocybernetics and Biomedical Engineering,
 *   Biomedical Signal Processing and Control,
 *   BMC Oral Health,
+*   BMC Medicine,
 *   BMC Medical Informatics and Decision Making, 
 *   Cancers,
 *   Diagnostics,
