@@ -1,7 +1,7 @@
 ---
-title: "Reliable Artificial Intelligence for disease and cancer image analysis"
-excerpt: "Reliable Artificial Intelligence for disease and cancer image analysis<br/><img src='/images/research4x.png'>"
+title: "Uncertainty-informed trustworthy medical AI solutions"
+excerpt: "Uncertainty-informed trustworthy medical AI solutions<br/><img src='/images/research4x.png'>"
 collection: portfolio
 ---
 
-Reliable Artificial Intelligence for disease and cancer image analysis
+Uncertainty-informed trustworthy medical AI solutions
