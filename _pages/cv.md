@@ -34,8 +34,8 @@ Editorial Service
 * Topical Editor, Frontiers in Signal Processing
 
 Conference Service
-* Program Committee, Design and Quality for Biomedical Technologies XVII, Photonics West
-* Session Chair, Design and Quality for Biomedical Technologies XVI, Photonics West
+* Program Committee, Design and Quality for Biomedical Technologies XVII/XVIII, SPIE Photonics West
+* Session Chair, Design and Quality for Biomedical Technologies XVI, SPIE Photonics West
   
 Journal Reviewer
 *   Artificial Intelligence in Medicine, 
