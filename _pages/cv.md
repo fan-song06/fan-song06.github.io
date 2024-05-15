@@ -40,7 +40,9 @@ Conference Service
 Journal Reviewer
 *   Artificial Intelligence in Medicine, 
 *   Applied Optics,
-*   Applied Sciences, 
+*   Artificial Intelligence Review,
+*   Applied Sciences,
+*   Advanced Imaging,
 *   Biomedical Optics Express,
 *   Biocybernetics and Biomedical Engineering,
 *   Biomedical Signal Processing and Control,
@@ -53,7 +55,6 @@ Journal Reviewer
 *   Digital health,
 *   Expert Systems with Applications,
 *   Electronics, 
-*   Entropy,
 *   Heliyon,
 *   IEEE Photonics Journal,
 *   IEEE Access,
