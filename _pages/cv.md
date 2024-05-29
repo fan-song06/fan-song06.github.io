@@ -30,7 +30,7 @@ Professional Services
 ======
 
 Editorial Service
-* Guest Editor, Photonics
+* Guest Editor, Photonics, Jounral of Imaging
 * Topical Editor, Frontiers in Signal Processing
 
 Conference Service
