@@ -30,8 +30,10 @@ Professional Services
 ======
 
 Editorial Service
+* Editorial Board Members, Discover Imaging
 * Guest Editor, Jounral of Imaging
 * Guest Editor, Photonics
+* Guest Editor, Applied Sciences
 * Topical Editor, Frontiers in Signal Processing
 
 Conference Service
