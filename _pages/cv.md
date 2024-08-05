@@ -57,6 +57,7 @@ Journal Reviewer
 *   Data in Brief,
 *   Digital health,
 *   Expert Systems with Applications,
+*   Expert Review of Medical Devices
 *   Electronics, 
 *   Heliyon,
 *   IEEE Photonics Journal,
@@ -65,6 +66,7 @@ Journal Reviewer
 *   Journal of Electronic Imaging,
 *   Journal of Imaging,
 *   Metabolites,
+*   Mobile Networks and Applications,
 *   Neuroscience Informatics,
 *   Optics Letter,
 *   PLOS ONE,
