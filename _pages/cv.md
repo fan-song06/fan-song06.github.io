@@ -33,7 +33,6 @@ Editorial Service
 * Editorial Board Member, Discover Imaging
 * Guest Editor, Journal of Imaging
 * Guest Editor, Photonics
-* Topical Editor, Frontiers in Signal Processing
 
 Conference Service
 * Program Committee, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
