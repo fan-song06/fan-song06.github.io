@@ -30,6 +30,7 @@ Professional Services
 ======
 
 Editorial Service
+* Editorial Board Member, Scientific Reports
 * Editorial Board Member, Discover Imaging
 * Guest Editor, Journal of Imaging
 * Guest Editor, Photonics
