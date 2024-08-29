@@ -26,16 +26,17 @@ Employment
 * Assistant Research Professor, Wyant College of Optical Sciences, University of Arizona
 * Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
 
-Professional Services
+Professional Activities
 ======
-Editorial Service
+
+Editorial Services
 ======
 * Editorial Board Member, Scientific Reports
 * Editorial Board Member, Discover Imaging
 * Guest Editor, Journal of Imaging
 * Guest Editor, Photonics
 
-Conference Service
+Conference Services
 ======
 * Program Committee, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
 * Program Committee, Design and Quality for Biomedical Technologies XVII, SPIE Photonics West
