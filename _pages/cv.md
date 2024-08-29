@@ -27,6 +27,7 @@ Employment
 * Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
 
 Professional Services
+======
 Editorial Service
 ======
 * Editorial Board Member, Scientific Reports
