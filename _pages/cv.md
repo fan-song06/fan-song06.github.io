@@ -29,18 +29,18 @@ Employment
 Professional Activities
 ======
 
-### Editorial Services
+## Editorial Services
 * Editorial Board Member, Scientific Reports
 * Editorial Board Member, Discover Imaging
 * Guest Editor, Journal of Imaging
 * Guest Editor, Photonics
 
-### Conference Services
+## Conference Services
 * Program Committee, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
 * Program Committee, Design and Quality for Biomedical Technologies XVII, SPIE Photonics West
 * Session Chair, Design and Quality for Biomedical Technologies XVI, SPIE Photonics West
   
-### Journal Reviewer
+## Journal Reviewer
 
 *   Artificial Intelligence in Medicine, 
 *   Applied Optics,
