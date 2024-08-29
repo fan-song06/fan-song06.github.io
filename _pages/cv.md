@@ -29,8 +29,7 @@ Employment
 * Postdoctoral Research Associate, Wyant College of Optical Sciences, University of Arizona
 
 
-Professional Activities
-======
+# Professional Activities
 ## _Editorial Services_
 * Editorial Board Member, _Scientific Reports_
 * Editorial Board Member, _Discover Imaging_
