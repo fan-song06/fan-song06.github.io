@@ -31,16 +31,16 @@ Employment
 
 # Professional Activities
 ## Editorial Services
-* Editorial Board Member, _Scientific Reports_
-* Editorial Board Member, _Discover Imaging_
-* Guest Editor, _Journal of Imaging_
-* Guest Editor, _Photonics_
+* Editorial Board Member, Scientific Reports
+* Editorial Board Member, Discover Imaging
+* Guest Editor, Journal of Imaging
+* Guest Editor, Photonics
 
 
 ## Conference Services
-* Program Committee, _Design and Quality for Biomedical Technologies XVIII_, SPIE Photonics West
-* Program Committee, _Design and Quality for Biomedical Technologies XVII_, SPIE Photonics West
-* Session Chair, _Design and Quality for Biomedical Technologies XVI_, SPIE Photonics West
+* Program Committee, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
+* Program Committee, Design and Quality for Biomedical Technologies XVII, SPIE Photonics West
+* Session Chair, Design and Quality for Biomedical Technologies XVI, SPIE Photonics West
 
 
 ## Journal Reviewer
