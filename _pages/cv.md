@@ -62,7 +62,7 @@ Professional Activities
 *   Data in Brief,
 *   Digital health,
 *   Expert Systems with Applications,
-*   Expert Review of Medical Devices
+*   Expert Review of Medical Devices,
 *   Electronics, 
 *   Heliyon,
 *   IEEE Photonics Journal,
