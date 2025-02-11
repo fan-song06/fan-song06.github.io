@@ -77,7 +77,6 @@ Professional Activities
 *   Journal of Electronic Imaging,
 *   Journal of Biomedical Optics,
 *   Journal of Imaging,
-*   Metabolites,
 *   Mobile Networks and Applications,
 *   Neuroscience Informatics,
 *   Optics Letter,
