@@ -46,10 +46,10 @@ Professional Activities
 
 
 **Journal Reviewer**
-*   Artificial Intelligence in Medicine, 
-*   Applied Optics,
+*   Artificial Intelligence in Medicine,
 *   Artificial Intelligence Review,
-*   Applied Sciences,
+*   Applied Optics,
+*   Applied Artificial Intelligence,
 *   Advanced Imaging,
 *   Biomedical Optics Express,
 *   Biocybernetics and Biomedical Engineering,
@@ -57,7 +57,8 @@ Professional Activities
 *   BMC Oral Health,
 *   BMC Medicine,
 *   BMC Medical imaging,
-*   BMC Medical Informatics and Decision Making, 
+*   BMC Medical Informatics and Decision Making,
+*   British Dental Journal,
 *   Cancers,
 *   Cluster Computing,
 *   Cognitive Computation,
@@ -86,6 +87,7 @@ Professional Activities
 *   Results in Physics, 
 *   Scientific Report,
 *   Sensors,
-*   Sustainability, 
+*   Sustainability,
+*   Signal, Image and Video Processing,
 *   ...
 *   ...
