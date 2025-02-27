@@ -41,7 +41,7 @@ Professional Activities
 
 
 **Conference Services**
-* Program Committee, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
+* Program Committee, Session Chair, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
 * Program Committee, Design and Quality for Biomedical Technologies XVII, SPIE Photonics West
 * Session Chair, Design and Quality for Biomedical Technologies XVI, SPIE Photonics West
 
