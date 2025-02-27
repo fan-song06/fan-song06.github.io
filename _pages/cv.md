@@ -33,8 +33,9 @@ Professional Activities
 ======
 **Editorial Services**
 * Editorial Board Member, Scientific Reports
-* Editorial Board Member, Discover Artificial Intelligence
+* Editorial Board Member, BMC Oral Health
 * Editorial Board Member, Discover Imaging
+* Editorial Board Member, Discover Artificial Intelligence
 * Guest Editor, Journal of Imaging
 * Guest Editor, Photonics
 
