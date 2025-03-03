@@ -36,9 +36,7 @@ Professional Activities
 * Editorial Board Member, BMC Oral Health
 * Editorial Board Member, Discover Imaging
 * Editorial Board Member, Discover Artificial Intelligence
-* Guest Editor, Journal of Imaging
-* Guest Editor, Photonics
-
+* 
 
 **Conference Services**
 * Program Committee, Session Chair, Design and Quality for Biomedical Technologies XVIII, SPIE Photonics West
