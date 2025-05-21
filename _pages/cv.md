@@ -71,6 +71,7 @@ Professional Activities
 *   Heliyon,
 *   IEEE Photonics Journal,
 *   IEEE Access,
+*   IEEE Transactions on Multimedia,
 *   International Dental Journal,
 *   International Journal of Imaging Systems and Technology,
 *   Journal of Cancer Research and Clinical Oncology,
