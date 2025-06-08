@@ -79,6 +79,7 @@ Professional Activities
 *   Journal of Biomedical Optics,
 *   Journal of Imaging,
 *   Mobile Networks and Applications,
+*   Nature Communications,
 *   npj Digital Medicine,
 *   Neuroscience Informatics,
 *   Optics Letter,
