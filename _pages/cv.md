@@ -32,6 +32,7 @@ Employment
 Professional Activities
 ======
 **Editorial Services**
+* Editorial Board Member, Scientific Reviews
 * Editorial Board Member, Scientific Reports
 * Editorial Board Member, BMC Oral Health
 * Editorial Board Member, Discover Imaging
@@ -51,6 +52,7 @@ Professional Activities
 *   Applied Artificial Intelligence,
 *   Advanced Imaging,
 *   Archives of Computational Methods in Engineering,
+*   ACS Photonics,
 *   Biomedical Optics Express,
 *   Biosensors and Bioelectronics,
 *   Biocybernetics and Biomedical Engineering,
@@ -79,12 +81,15 @@ Professional Activities
 *   IEEE Transactions on Multimedia,
 *   International Dental Journal,
 *   International Journal of Imaging Systems and Technology,
+*   Information Sciences,
 *   Journal of Cancer Research and Clinical Oncology,
+*   Journal of Cancer Policy,
 *   Journal of Electronic Imaging,
 *   Journal of Biomedical Optics,
 *   Journal of Imaging,
 *   Light: Science & Applications,
 *   Mobile Networks and Applications,
+*   Materials Today Advances,
 *   Nature Communications,
 *   npj Digital Medicine,
 *   Neuroscience Informatics,
